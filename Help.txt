@@ -1,0 +1,3 @@
+//Run Projet
+//Compile File:	tsc file.ts
+//Compile Project: tsc -w

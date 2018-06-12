@@ -1,0 +1,9 @@
+{
+  "compilerOptions":{
+    "outDir": "dist",
+    "noEmitOnError": false, //nao gera arquivo quando incompatibilidade de tipos
+    "typeRoots": [
+      "node_modules/@types"
+    ]
+  }
+}
